@@ -20,6 +20,7 @@ A Java-based **Smart Traffic Management System** that dynamically **prioritizes 
  🚀 How to Run
 1️⃣ Clone the Repository
 
+```sh
 
 git clone https://github.com/yourusername/Traffic-Management-System.git
 cd Traffic-Management-System
